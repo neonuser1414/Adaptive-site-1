@@ -66,7 +66,12 @@ body{
 	border: 2px solid #000;
 	max-width: 1200px;
 	margin: 0px auto;
-	font-size: 26px;
+	font-size: 36px;
+	text-shadow: 4px 4px 4px #000;
+	font-weight: 600;
+	color: #FFF;
+	background-color: grey;
+	font-style: italic;
 	padding: 10px;
 	text-align: center;
 }
