@@ -39,7 +39,7 @@ body{
 .header{
 	border: 2px solid #000;
 	max-width: 1200px;
-	margin: 0px auto;
+	margin: 0px auto 40px;
 }
 
 .txt1{
@@ -56,4 +56,17 @@ body{
 	border: 2px solid #000;
 	max-width: 1200px;
 	margin:0px auto;
+}
+
+.middle{
+
+}
+
+.txt2{
+	border: 2px solid #000;
+	max-width: 1200px;
+	margin: 0px auto;
+	font-size: 26px;
+	padding: 10px;
+	text-align: center;
 }
